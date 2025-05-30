@@ -4,9 +4,6 @@
 Welcome to our final project for [Bootcamp Name or Class], where we analyze NBA shot data to build a machine learning model that predicts shot outcomes and uncovers patterns in shooting performance across the league. Our goal is to combine statistical analysis with data storytelling to evaluate what makes a high-quality shot and how different features affect the likelihood of success.
 
 📁 Project Structure
-graphql
-Copy
-Edit
 
 ├── data/                     
 https://www.nba.com/stats

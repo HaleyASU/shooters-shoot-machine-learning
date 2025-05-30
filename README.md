@@ -1,7 +1,7 @@
 # shooters-shoot-machine-learning
 
 🏀 NBA Shot Prediction Project: Shot Quality & Outcome Modeling
-Welcome to our final project for [Bootcamp Name or Class], where we analyze NBA shot data to build a machine learning model that predicts shot outcomes and uncovers patterns in shooting performance across the league. Our goal is to combine statistical analysis with data storytelling to evaluate what makes a high-quality shot and how different features affect the likelihood of success.
+Welcome to our final project for our Data Analytics and Visualizations Bootcamp, where we analyze NBA shot data to build a machine learning model that predicts shot outcomes and uncovers patterns in shooting performance across the league. Our goal is to combine statistical analysis with data storytelling to evaluate what makes a high-quality shot and how different features affect the likelihood of success.
 
 📁 Project Structure
 
@@ -26,7 +26,7 @@ https://www.basketball-reference.com/playoffs/NBA_2025.html
 Build a machine learning model to predict whether a shot attempt will be made or missed using player, location, and situational data. Evaluate performance across different modeling techniques and visualize the impact of features on outcomes.
 
 ⚙️ Tools & Technologies
-Python (Pandas, NumPy, Matplotlib, Scikit-learn)
+Python (Pandas, NumPy, Seaborn, BeautifulSoup, Matplotlib, Scikit-learn, Tensorflow)
 
 TensorFlow/Keras (for neural networks)
 

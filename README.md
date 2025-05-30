@@ -8,11 +8,12 @@ graphql
 Copy
 Edit
 
-├── data/                     https://www.nba.com/stats
-                              https://www.espn.com/nba/stats
-                              https://github.com/toddwschneider/ballr
-                              https://toddwschneider.com/posts/ballr-interactive-nba-shot-charts-with-r-and-shiny/
-                              https://www.basketball-reference.com/playoffs/NBA_2025.html
+├── data/                     
+https://www.nba.com/stats
+https://www.espn.com/nba/stats
+https://github.com/toddwschneider/ballr
+https://toddwschneider.com/posts/ballr-interactive-nba-shot-charts-with-r-and-shiny/
+https://www.basketball-reference.com/playoffs/NBA_2025.html
                               
 ├── notebooks/                # Jupyter/Colab notebooks for EDA and modeling
 

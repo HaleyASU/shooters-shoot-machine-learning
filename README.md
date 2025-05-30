@@ -48,16 +48,14 @@ Home vs. away
 
 Defensive matchup stats (e.g., Opponent DRtg, block %, etc.)
 
-Player-level shooting efficiency
-
 Court location (LOC_X, LOC_Y)
 
 Temporal context (quarter, time left)
 
 🧠 Models Built
 Model Type	Accuracy	Precision	Recall	F1 Score
-Logistic Regression	59%	...	...	...
-Random Forest Classifier	58%	...	...	...
+Logistic Regression	61%	...	...	...
+Random Forest Classifier	61%	...	...	...
 Neural Network (Keras)	XX%	...	...	...
 
 We're continuing to iterate and tune hyperparameters to push accuracy higher. Adding new features improved our performance marginally, but the challenge remains in modeling shot complexity and human factors.

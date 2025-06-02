@@ -53,7 +53,7 @@ Temporal context (quarter, time left)
 Model Type	Accuracy	Precision	Recall	F1 Score
 Logistic Regression	61%	...	...	...
 Random Forest Classifier	61%	...	...	...
-Neural Network (Keras)	XX%	...	...	...
+Neural Network (Keras)	79%	...	...	...
 
 We're continuing to iterate and tune hyperparameters to push accuracy higher. Adding new features improved our performance marginally, but the challenge remains in modeling shot complexity and human factors.
 
@@ -67,7 +67,7 @@ We're continuing to iterate and tune hyperparameters to push accuracy higher. Ad
 🧠 Takeaways: Insights into shot quality, player tendencies, and model reliability
 
 👥 Team
-Haley Armenta 
 Natalie Annas
+Haley Armenta 
 Lisa Tafoya
 Quentin Bartholomew
